@@ -1,0 +1,1 @@
+Escreva um programa que pergunte ao usuário quantas notas deseja digitar. Receba o valor das notas, armazene em um Array. Depois faça a média das notas e mostre na tela o resultado.
