@@ -16,19 +16,19 @@ public class TesteCalculadora {
     }
 
     public double adicionar() {
-        double soma = atributos.getNumero1() + atributos.getNumero1();
+        double soma = atributos.getNumero1() + atributos.getNumero2();
         atributos.setResultado(soma);
         return soma;
     }
 
     public double subtrair() {
-        double subtracao = atributos.getNumero1() - atributos.getNumero1();
+        double subtracao = atributos.getNumero1() - atributos.getNumero2();
         atributos.setResultado(subtracao);
         return subtracao;
     }
 
     public double multiplicar() {
-        double multiplicacao = atributos.getNumero1() * atributos.getNumero1();
+        double multiplicacao = atributos.getNumero1() * atributos.getNumero2();
         atributos.setResultado(multiplicacao);
         return multiplicacao;
     }
