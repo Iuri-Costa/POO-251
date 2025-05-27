@@ -17,6 +17,6 @@ public class AtributosLampada {
 
     void mostrarStatus() {
         String status = ligada ? "ligada" : "desligada";
-        System.out.println("A lâmpada está " + status + ", da cor " + cor + " e de potência " + potencia); // Adicionado espaço antes de "potência"
+        System.out.println("A lâmpada está " + status + ", da cor " + cor + " e de potência " + potencia);
     }
 }
