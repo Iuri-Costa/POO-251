@@ -22,6 +22,7 @@ public class Carro {
     }
 
     public void exibir() {
+        System.out.println("-------------------------");
         System.out.println("Modelo: " + modelo + ", Cor: " + cor + ", Ano: " + ano);
     }
 }

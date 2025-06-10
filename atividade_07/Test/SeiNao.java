@@ -1,4 +1,4 @@
-package atividade_07;
+package atividade_07.Test;
 import atividade_07.Aluno.Aluno;
 import atividade_07.Carro.Carro;
 import atividade_07.Lâmpada.Lampada;

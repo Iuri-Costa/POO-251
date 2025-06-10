@@ -22,6 +22,7 @@ public class Lampada {
     }
 
     public void status() {
+        System.out.println("-------------------------");
         System.out.println("Ligada: " + ligada + ", Potência: " + potencia + "W, Tipo: " + tipo);
     }
 }
