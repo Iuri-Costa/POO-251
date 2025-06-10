@@ -1,5 +1,5 @@
 
-package Lâmpada;
+package atividade_04_05.Lâmpada;
 
 public class TesteLampada {
     public static void main(String[] args) {

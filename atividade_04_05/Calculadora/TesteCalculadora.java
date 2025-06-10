@@ -1,4 +1,4 @@
-package Calculadora;
+package atividade_04_05.Calculadora;
 
 public class TesteCalculadora {
     AtributosCalculadora atributos = new AtributosCalculadora();
@@ -16,20 +16,20 @@ public class TesteCalculadora {
     }
 
     public double adicionar() {
-        double soma = atributos.getNumero1() + atributos.getNumero2();
-        atributos.setResultado(soma);
+        double soma = atributos.numero1 + atributos.numero2;
+        atributos.resultado = soma;
         return soma;
     }
 
     public double subtrair() {
-        double subtracao = atributos.getNumero1() - atributos.getNumero2();
-        atributos.setResultado(subtracao);
+        double subtracao = atributos.numero1 - atributos.numero2;
+        atributos.resultado = subtracao;
         return subtracao;
     }
 
     public double multiplicar() {
-        double multiplicacao = atributos.getNumero1() * atributos.getNumero2();
-        atributos.setResultado(multiplicacao);
+        double multiplicacao = atributos.numero1 * atributos.numero2;
+        atributos.resultado = multiplicacao;
         return multiplicacao;
     }
 }

@@ -1,4 +1,4 @@
-package Aluno;
+package atividade_04_05.Aluno;
 
 public class TesteAlunos {
     public static void main(String[] args) {

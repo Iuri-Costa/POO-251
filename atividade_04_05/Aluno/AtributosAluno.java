@@ -1,4 +1,4 @@
-package Aluno;
+package atividade_04_05.Aluno;
 
 public class AtributosAluno {
     String Matricula;
