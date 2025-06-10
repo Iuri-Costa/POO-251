@@ -1,4 +1,4 @@
-package atividade_04_05.Lâmpada;
+package atividade_04;
 
 public class AtributosLampada {
     boolean ligada;

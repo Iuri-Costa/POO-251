@@ -1,4 +1,4 @@
-package atividade_04_05.Calculadora;
+package atividade_04;
 
 public class AtributosCalculadora {
     public double numero1 = 10;

@@ -1,4 +1,4 @@
-package atividade_04_05.Calculadora;
+package atividade_05.Calculadora;
 
 public class TesteCalculadora {
     AtributosCalculadora atributos = new AtributosCalculadora();
