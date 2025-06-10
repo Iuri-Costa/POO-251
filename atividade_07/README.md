@@ -1,0 +1,1 @@
+Crie 4 classes em pacotes diferentes: Carro, Lâmpada, Aluno e PessoaPara cada uma das classes abaixo elaborar pelo menos 3 construtores diferentesEm seguida, fazer pelo menos 3 instâncias (uma pra cada construtor)Para cada classe deve conter pelo menos uma lógica de atribuição e um valor pré definido de um atributo a sua escolha
