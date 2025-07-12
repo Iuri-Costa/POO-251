@@ -1,4 +1,4 @@
-package Main;
+package atividade_09.Main;
 public class Pessoa{
     private String nome;
     private int idade;
