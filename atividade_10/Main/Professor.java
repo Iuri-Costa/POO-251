@@ -1,4 +1,4 @@
-package atividade_09.Main;
+package atividade_10.Main;
 public class Professor extends Pessoa {
     private String materia;
     private int ID;

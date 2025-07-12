@@ -1,6 +1,6 @@
-package atividade_09.instancia;
-import atividade_09.Main.Aluno;
-import atividade_09.Main.Professor;
+package atividade_10.instancia;
+import atividade_10.Main.Aluno;
+import atividade_10.Main.Professor;
 public class Intanciar {
     public static void main(String[] args) {
         Aluno aluno1 = new Aluno("Iuri", 17, "masculino", 272727, "TI");

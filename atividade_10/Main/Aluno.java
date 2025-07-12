@@ -1,4 +1,4 @@
-package atividade_09.Main;
+package atividade_10.Main;
 public class Aluno extends Pessoa {
     private int matricula;
     private String curso;
