@@ -8,7 +8,6 @@ public class Aluno extends Pessoa {
         this.matricula = matricula;
         this.curso = curso;
     }
-
     public void setMatricula(int matricula){
         this.matricula = matricula;
     }
