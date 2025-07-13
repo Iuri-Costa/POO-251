@@ -2,7 +2,6 @@ package atividade_10.Main;
 public class Aluno extends Pessoa {
     private int matricula;
     private String curso;
-
     public Aluno(String nome, int idade, String genero, int matricula, String curso){
         super(nome, idade, genero);
         this.matricula = matricula;
