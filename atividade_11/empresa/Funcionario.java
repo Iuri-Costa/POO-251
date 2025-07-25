@@ -23,7 +23,6 @@ public class Funcionario {
         return salario;
     }
 
-    // Método genérico
     public void exibirInformacoes() {
         System.out.println("Nome: " + nome);
         System.out.println("Idade: " + idade);

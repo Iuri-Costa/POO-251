@@ -12,14 +12,12 @@ public class Desenvolvedor extends Funcionario {
         return linguagemPrincipal;
     }
 
-    // Método sobrescrito
     @Override
     public void exibirInformacoes() {
         super.exibirInformacoes();
         System.out.println("Linguagem Principal: " + linguagemPrincipal);
     }
 
-    // Métodos sobrecarregados
     public void programar() {
         System.out.println("Programando em " + linguagemPrincipal + "...");
     }

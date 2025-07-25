@@ -12,14 +12,12 @@ public class Gerente extends Funcionario {
         return setor;
     }
 
-    // Método sobrescrito
     @Override
     public void exibirInformacoes() {
         super.exibirInformacoes();
         System.out.println("Setor: " + setor);
     }
 
-    // Métodos sobrecarregados
     public void planejar() {
         System.out.println("Planejando estratégias do setor " + setor + "...");
     }
